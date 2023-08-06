@@ -71,21 +71,25 @@ No known bugs at this time.
 
 - Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 - Thomas Wang - [Github](https://github.com/thomaspwang) / [Twitter](https://twitter.com/thpwang)
+- Michael Wachira - [Github](https://github.com/Michae202) / [Email](mikewachirabb495@gmail.com)
 
 ###### Version 3
 
 - Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 - Felicia Hsieh - [Github](https://github.com/feliciahsieh) / [Twitter](https://twitter.com/feliciahsiehsw)
+- Michael Wachira - [Github](https://github.com/Michae202) / [Email](mikewachirabb495@gmail.com
 
 ###### Version 2
 
 - Andrew Birnberg - [Github](https://github.com/birnbera) / [Twitter](https://twitter.com/birnbera)
 - Thomas Wang - [Github](https://github.com/thomaspwang) / [Twitter](https://twitter.com/thpwang)
+- Michael Wachira - [Github](https://github.com/Michae202) / [Email](mikewachirabb495@gmail.com
 
 ###### Version 1
 
 - Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 - Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+- Michael Wachira - [Github](https://github.com/Michae202) / [Email](mikewachirabb495@gmail.com
 
 ## License
 Public Domain. No copywrite protection.
